@@ -3,6 +3,7 @@
  👀 Interested in Data Science, Machine Learning, Python
  
  🌱 Currently learning Gen AI, Python, DSA
+ 
  👨‍💻 Working as Data Scientist @ AQUERALABS
 
 💬 Ask me about Python, ML
