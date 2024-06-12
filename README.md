@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Saketh sree ram
 
- 👀 I’m interested in Data Science, Machine Learning, Python
+ 👀 Interested in Data Science, Machine Learning, Python
  
- 🌱 I’m currently learning ML, Python, DSA
+ 🌱 Currently learning Gen AI, Python, DSA
+ 👨‍💻 Working as Data Scientist @ AQUERALABS
 
 💬 Ask me about Python, ML
 
