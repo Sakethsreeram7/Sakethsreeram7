@@ -2,13 +2,13 @@
 
  👀 Interested in Data Science, Machine Learning, Python
  
- 🌱 Currently learning langchain, tensorflow, gradio
+ 🌱 Currently learning: langchain, tensorflow, gradio
  
- 👨‍💻 Working as Data Scientist @ AQUERALABS
+ 👨‍💻 Working as Data Scientist at AQUERALABS
 
-💬 Ask me about Python, ML
+💬 Ask me about Python, GenAI, Data science
 
-📫 How to reach me : sakethsreeram7@gmail.com
+📫 How to reach me : reachout2sreeram@gmail.com
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethsreeram7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
