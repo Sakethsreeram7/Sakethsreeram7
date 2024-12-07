@@ -2,7 +2,7 @@
 
  👀 Interested in Data Science, Machine Learning, Python
  
- 🌱 Currently learning Gen AI, Python, DSA
+ 🌱 Currently learning langchain, tensorflow, gradio
  
  👨‍💻 Working as Data Scientist @ AQUERALABS
 
