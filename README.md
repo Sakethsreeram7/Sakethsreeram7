@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Saketh sree ram
 
- 👀 Interested in Data Science, Machine Learning, Python
+ 👀 Interested in Data Science, Machine Learning, Gen AI
  
- 🌱 Currently learning: langchain, tensorflow, gradio
+ 🌱 Currently learning: Vector embedding, Transformers, Advanced RAG
  
  👨‍💻 Working as Data Scientist at AQUERALABS
 
