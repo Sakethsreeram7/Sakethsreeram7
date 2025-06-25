@@ -8,7 +8,7 @@
 
 💬 Ask me about Python, GenAI, Data science
 
-📫 How to reach me : reachout2sreeram@gmail.com
+📫 How to reach me : reachout.sreeram@gmail.com
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethsreeram7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
