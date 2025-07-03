@@ -2,11 +2,11 @@
 
  👀 Interested in Data Science, Machine Learning, Gen AI
  
- 🌱 Currently learning: Vector embedding, Transformers, Advanced RAG
+ 🌱 Currently learning: Tensorflow, Transformers, Agents
  
  👨‍💻 Working as Data Scientist at AQUERALABS
 
-💬 Ask me about Python, GenAI, Data science
+💬 Ask me about Python, GenAI, ML
 
 📫 How to reach me : reachout.sreeram@gmail.com
 
